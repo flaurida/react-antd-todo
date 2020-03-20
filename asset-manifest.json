@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.1cf09d17.chunk.css",
-    "main.js": "/static/js/main.f78a9b6c.chunk.js",
-    "main.js.map": "/static/js/main.f78a9b6c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.328bb17e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.328bb17e.js.map",
-    "static/css/2.9aff8fc1.chunk.css": "/static/css/2.9aff8fc1.chunk.css",
-    "static/js/2.dc20175c.chunk.js": "/static/js/2.dc20175c.chunk.js",
-    "static/js/2.dc20175c.chunk.js.map": "/static/js/2.dc20175c.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.8c103bd6bf897046445113050af80785.js": "/precache-manifest.8c103bd6bf897046445113050af80785.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.9aff8fc1.chunk.css.map": "/static/css/2.9aff8fc1.chunk.css.map",
-    "static/css/main.1cf09d17.chunk.css.map": "/static/css/main.1cf09d17.chunk.css.map",
-    "static/js/2.dc20175c.chunk.js.LICENSE.txt": "/static/js/2.dc20175c.chunk.js.LICENSE.txt"
+    "main.css": "/react-antd-todo/static/css/main.1cf09d17.chunk.css",
+    "main.js": "/react-antd-todo/static/js/main.f78a9b6c.chunk.js",
+    "main.js.map": "/react-antd-todo/static/js/main.f78a9b6c.chunk.js.map",
+    "runtime-main.js": "/react-antd-todo/static/js/runtime-main.7b479cdb.js",
+    "runtime-main.js.map": "/react-antd-todo/static/js/runtime-main.7b479cdb.js.map",
+    "static/css/2.9aff8fc1.chunk.css": "/react-antd-todo/static/css/2.9aff8fc1.chunk.css",
+    "static/js/2.9241192d.chunk.js": "/react-antd-todo/static/js/2.9241192d.chunk.js",
+    "static/js/2.9241192d.chunk.js.map": "/react-antd-todo/static/js/2.9241192d.chunk.js.map",
+    "index.html": "/react-antd-todo/index.html",
+    "precache-manifest.523e2d41e7830bcc6192bedb69fc8ed7.js": "/react-antd-todo/precache-manifest.523e2d41e7830bcc6192bedb69fc8ed7.js",
+    "service-worker.js": "/react-antd-todo/service-worker.js",
+    "static/css/2.9aff8fc1.chunk.css.map": "/react-antd-todo/static/css/2.9aff8fc1.chunk.css.map",
+    "static/css/main.1cf09d17.chunk.css.map": "/react-antd-todo/static/css/main.1cf09d17.chunk.css.map",
+    "static/js/2.9241192d.chunk.js.LICENSE.txt": "/react-antd-todo/static/js/2.9241192d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.328bb17e.js",
+    "static/js/runtime-main.7b479cdb.js",
     "static/css/2.9aff8fc1.chunk.css",
-    "static/js/2.dc20175c.chunk.js",
+    "static/js/2.9241192d.chunk.js",
     "static/css/main.1cf09d17.chunk.css",
     "static/js/main.f78a9b6c.chunk.js"
   ]
