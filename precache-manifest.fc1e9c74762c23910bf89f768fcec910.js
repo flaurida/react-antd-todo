@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ed516ecd39bfbdc64533d22bcef2c633",
+    "revision": "7f1974f6c8bfd03bd1830ac40f0af06d",
     "url": "/react-antd-todo/index.html"
   },
   {
-    "revision": "6ea3a80ded21c3ae7230",
+    "revision": "1964ea6672154d7c4993",
     "url": "/react-antd-todo/static/css/2.954a90cd.chunk.css"
   },
   {
-    "revision": "e54bca79830ac92ee1e3",
+    "revision": "34dcaa0347474bf306b1",
     "url": "/react-antd-todo/static/css/main.d6726372.chunk.css"
   },
   {
-    "revision": "6ea3a80ded21c3ae7230",
-    "url": "/react-antd-todo/static/js/2.1bf633e4.chunk.js"
+    "revision": "1964ea6672154d7c4993",
+    "url": "/react-antd-todo/static/js/2.e6b7eb2d.chunk.js"
   },
   {
     "revision": "176c1a1a28b19c611d9701905d8d60b7",
-    "url": "/react-antd-todo/static/js/2.1bf633e4.chunk.js.LICENSE.txt"
+    "url": "/react-antd-todo/static/js/2.e6b7eb2d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e54bca79830ac92ee1e3",
-    "url": "/react-antd-todo/static/js/main.7c4dbaac.chunk.js"
+    "revision": "34dcaa0347474bf306b1",
+    "url": "/react-antd-todo/static/js/main.7d77b05a.chunk.js"
   },
   {
     "revision": "e5beed57955b994b3ac9",
